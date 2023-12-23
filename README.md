@@ -1,6 +1,6 @@
 <div align="left">
   
-<img src="https://github.com/RolfLobo/RolfLobo/blob/main/pexels-google-deepmind-17483868.jpg" alt="AI Brain" style="height: 25em; width:200em; align:'left';"/>
+<img src="https://github.com/RolfLobo/RolfLobo/blob/main/pexels-google-deepmind-17483868.jpg" alt="AI Brain" style="height: 30em; width:300em; align:'left';"/>
 
 </div>
 
